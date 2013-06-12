@@ -18,8 +18,6 @@ The following have been released publicly on code hosting sites or their own web
 
 
 ### UI building
-* **Buckshot** user interface framework
-    * [https://github.com/prujohn/Buckshot](https://github.com/prujohn/Buckshot)
 * **DartFlash**: a port of Flash API to Dart  
     * [https://github.com/bp74/dartflash](https://github.com/bp74/dartflash)
 * **PureMVC-Dart**: Port of PureMVC framework
